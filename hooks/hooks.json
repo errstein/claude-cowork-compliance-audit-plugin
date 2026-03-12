@@ -1,0 +1,6 @@
+{
+  "hooks": {
+    "PreToolUse": [{"matcher": ".*", "hooks": [{"type": "command", "command": "${CLAUDE_PLUGIN_ROOT}/scripts/log-pre-tool.sh"}]}],
+    "PostToolUse": [{"matcher": ".*", "hooks": [{"type": "command", "command": "${CLAUDE_PLUGIN_ROOT}/scripts/log-post-tool.sh"}]}]
+  }
+}

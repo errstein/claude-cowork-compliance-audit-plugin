@@ -1,0 +1,8 @@
+{
+  "name": "compliance-audit",
+  "version": "1.0.0",
+  "description": "Local audit logging, compliance reporting, and data exports for Claude Cowork.",
+  "commands": "./commands",
+  "skills": "./skills",
+  "hooks": "./hooks/hooks.json"
+}
