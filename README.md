@@ -80,7 +80,7 @@ cowork-audit-plugin/
 ---
 
 ## Verifying the Plugin
-
+> Trust, but verify. This code is open — trust should come from reading it, not from anyone's words.
 All plugin files are plain text. Before installing, you can inspect them directly:
 
 ```bash
